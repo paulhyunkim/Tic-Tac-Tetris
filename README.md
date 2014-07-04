@@ -8,4 +8,9 @@ Hit 'r' to rotate pieces
 
 Create a room in the lobby or simply join an available game. If it looks like there are no available games, try hitting 'space'.
 
-Built using: AngularJS, HTML/CSS, Firebase
+Built using: 
+* AngularJS
+* HTML/CSS
+* Firebase
+
+http://www.paulhyunkim.com/tictactetris/
